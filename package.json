@@ -1,6 +1,7 @@
 {
   "name": "ehr",
-  "version": "0.1.0",
+  "description": "A blockchain based Electronic Health Record system",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
@@ -53,5 +54,6 @@
     "@testing-library/react": "^14.0.0",
     "jest": "^27.5.1",
     "tailwindcss": "^3.3.5"
-  }
+  },
+  "author": "Aritro Saha"
 }
